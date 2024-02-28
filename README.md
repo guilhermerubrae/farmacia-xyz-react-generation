@@ -1,0 +1,1 @@
+# farmacia-xyz-react-generation
